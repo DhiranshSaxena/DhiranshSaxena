@@ -13,7 +13,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [Medium](https://dhiranshsaxena.medium.com/)
 - 💻 I use daily **.dart**, **.py**, **.js**, **.cpp**
-- 📖 I am currently reading **The Psychology of Money** by Morgan Housel
+- 🎮 I am currently playing **Fall Guys and Fifa 21** 
 - 💬 Talk to me about football, python (this is not any kind of animal), silicon valley & startups
 - 👯 We can connect to play some games.
 - ⚡ Fun fact: Puedo hablar un poco de español
