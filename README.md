@@ -10,7 +10,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a Software Engineer working for a tech startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://dhiranshsaxena.medium.com/)
+- 📝 I regulary write technical articles for [Medium](https://dhiranshsaxena.medium.com/)
 - 💻 I use daily **.dart**, **.py**, **.js**, **.cpp**
 - 📖 I am currently reading **The Psychology of Money** by Morgan Housel
 - 💬 Talk to me about football, python (this is not any kind of animal), silicon valley & startups
@@ -69,11 +69,9 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Clean Code Tips & Good Practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)
-- [NanoID - A URL Friendly Unique Identifier](https://apoorvtyagi.tech/nanoid-url-friendly-unique-id)
-- [JavaScript Tips and Best Practices](https://apoorvtyagi.tech/javascript-tips-and-best-practices)
-- [Five++ cool Python snippets (Part - 2)](https://apoorvtyagi.tech/five-cool-python-snippets-part-2)
-- [Why you can't name a file "CON" in Windows?](https://apoorvtyagi.tech/why-you-cant-name-a-file-con-in-windows)
+- [8 Data Sets for Your Tableau / Data / Analytics Projects](https://dhiranshsaxena.medium.com/8-data-sets-for-your-tableau-data-analytics-projects-da89acb8d6a3)
+- [Building a Chrome Extension](https://dhiranshsaxena.medium.com/building-a-chrome-extension-db702dcc529b)
+- [How I got into Android Development.](https://medium.com/schaffen-softwares/how-i-got-into-android-development-54bab17847e5)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
