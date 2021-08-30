@@ -74,7 +74,7 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 - [How I got into Android Development.](https://medium.com/schaffen-softwares/how-i-got-into-android-development-54bab17847e5)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://apoorvtyagi.tech/)
+▶ [... view more](https://www.youtube.com/channel/UCD9-qa6XFWn2Hz8U4DSgFvg/featured)
 
 ---
 
