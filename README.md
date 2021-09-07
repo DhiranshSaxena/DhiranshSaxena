@@ -26,7 +26,7 @@
       <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="azure" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="azure" width="55" height="55"/> 
 </p>
 
 ---
