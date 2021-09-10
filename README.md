@@ -71,7 +71,7 @@ Sunday       84 commits     ██████░░░░░░░░░░░�
 - [8 Data Sets for Your Tableau / Data / Analytics Projects](https://dhiranshsaxena.medium.com/8-data-sets-for-your-tableau-data-analytics-projects-da89acb8d6a3)
 - [Building a Chrome Extension](https://dhiranshsaxena.medium.com/building-a-chrome-extension-db702dcc529b)
 - [How I got into Android Development.](https://medium.com/schaffen-softwares/how-i-got-into-android-development-54bab17847e5)
-- [If I had to start learning Data Science again, how would I do it?](https://dhiranshsaxena.medium.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-6c60766b40b5)
+- [If I had to start learning Data Science again, how would I do it?](https://dhiranshsaxena.medium.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-f6d4d056567d)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://www.youtube.com/channel/UCD9-qa6XFWn2Hz8U4DSgFvg/featured)
